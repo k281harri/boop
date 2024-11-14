@@ -1,0 +1,66 @@
+body{
+    background-image:url('https://m.media-amazon.com/images/I/61rBek0SLLL.__AC_SX300_SY300_QL70_FMwebp_.jpg');
+    background-size:cover;
+}
+.navbar{
+    border:border rgb(143, 81, 81);
+    background-color:chocolate;
+    display:flex;
+    height:80px;
+
+}
+.imageContainer{
+    border:dashed grey;
+    /* height:44px; */
+    margin:1em;
+}
+.episodeContainer{
+    border: rgb(114, 21, 49);
+    height:44px;
+    margin:1em;
+}
+.iconContainer{
+    /* border:solid purple; */
+    display:outset;
+    justify-content: space-between;
+    width:30%;
+    margin: 20px;px;
+}
+.btnContainer{
+    /* border:solid orange; */
+    width:70%;
+    margin:15px;
+}
+}
+.btnContainer2{
+    /* border:solid orange; */
+    width:70%;
+    margin:15px;
+}
+.sidebar{
+    height:100%;
+}
+.logo{
+    height:100%;
+}
+.mtvLogin{
+    width:100px;
+    font-size:18px;
+    border-radius:20px;
+    margin-top:12px;
+    background-color: green;
+    color:rgb(31, 33, 118);
+    font-family:'Times New Roman', Times, serif;
+    margin-left:65%;
+
+}
+.mtv{
+    width:100%;
+}
+}
+.imageContainer{
+    
+border:dashed grey;
+/* height:440px; */
+margin:7em;
+}
