@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blueviolet;
+    text-align: center;
+    background-image: url("https://www.thoughtco.com/thmb/61jCssjeqNgeqqSVS_ULLhqc6do=/3008x2000/filters:fill(auto,1)/close-up-of-flame-536940503-59b2b3de845b3400107a7f27.jpg");
+    
+}
+
+.game-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: blue;
+    border: 2px solid #ccc;
+    border-radius: 0px;
+    min-height: fit-content;
+
+}
+
+.low {
+    background-image: url("https://images.fineartamerica.com/images-medium-large-5/trippy-bubble-thomas-kaestner.jpg");
+    background-color: gray; max-width:100%; max-height:100%;
+    margin-inline-start: auto;
+    font-size: smaller;
+    min-height: fit-content;
+    color:white;
+
+}
+
+button {
+    background-color: #4CAF50;
+    color: cyan;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+h2 {
+    margin-top: 0;
+    text-size-adjust: flex;
+}
+
+p {
+    font-size: 18px;
+}
